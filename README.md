@@ -1,13 +1,13 @@
 ### ⚡ Boas Vindas ao Meu Perfil ⚡
 - Meu Nome é Matheus
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
   Você pode entrar em contato comigo 📫
 - alurastartestudante@email.com
 
-![]((https://media1.tenor.com/m/94UltXX9T14AAAAd/laddu-babu-chunkt.gif))
+![](https://media1.tenor.com/m/94UltXX9T14AAAAd/laddu-babu-chunkt.gif)
 
 
 <!--
